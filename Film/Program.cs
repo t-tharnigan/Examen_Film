@@ -24,6 +24,6 @@ class Film {
     }
 
     public void ToonInfo() {
-        Console.WriteLine($"Titel: {Titel}, Genre: {Genre}, Duurtijd: {Duurtijd} minuten");
+        Console.WriteLine($"Titel: {Titel}, Genre: {Genre}, Duurtijd: {Duurtijd} minuten, Leeftijdsgrens: {Leeftijdsgrens}+");
     }
 }
