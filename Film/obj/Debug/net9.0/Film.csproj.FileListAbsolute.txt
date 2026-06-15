@@ -1,0 +1,15 @@
+C:\Users\s95186\Documents\Examen_Film\Film\bin\Debug\net9.0\Film.exe
+C:\Users\s95186\Documents\Examen_Film\Film\bin\Debug\net9.0\Film.deps.json
+C:\Users\s95186\Documents\Examen_Film\Film\bin\Debug\net9.0\Film.runtimeconfig.json
+C:\Users\s95186\Documents\Examen_Film\Film\bin\Debug\net9.0\Film.dll
+C:\Users\s95186\Documents\Examen_Film\Film\bin\Debug\net9.0\Film.pdb
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\Film.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\Film.AssemblyInfoInputs.cache
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\Film.AssemblyInfo.cs
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\Film.csproj.CoreCompileInputs.cache
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\Film.sourcelink.json
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\Film.dll
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\refint\Film.dll
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\Film.pdb
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\Film.genruntimeconfig.cache
+C:\Users\s95186\Documents\Examen_Film\Film\obj\Debug\net9.0\ref\Film.dll
