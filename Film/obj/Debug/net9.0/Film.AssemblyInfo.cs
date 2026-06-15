@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Film")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af55005e5008cd16742dfa53ae99b039330801d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a389ac160ac43201d6d4cbabc65800493425e54")]
 [assembly: System.Reflection.AssemblyProductAttribute("Film")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Film")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
